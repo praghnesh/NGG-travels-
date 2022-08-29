@@ -1,0 +1,36 @@
+*
+{
+mergein: 0;
+padding: 0;
+
+}
+body
+{
+  font-family:Arial, Helvetica, sans-serif;
+}
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image:linear-gradient(to right,#00ffff,#5f1782);
+    padding: 0!importent;
+}
+navbar-brand img
+{
+  height: 80px;
+  padding-left: 60px;
+}
+.navbar-nav li
+{ 
+  padding: 0 10px; 
+}
+.navbar-nav li a
+{
+  color: #000000 !important;
+  font-weight: 600;
+}
+
+
